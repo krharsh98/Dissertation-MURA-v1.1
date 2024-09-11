@@ -1,4 +1,4 @@
-**Bone Fracture Detection using XAI techniques**
+**Bone Abnormality Detection using XAI techniques**
 
 Link to dataset: https://stanfordmlgroup.github.io/competitions/mura/
 
